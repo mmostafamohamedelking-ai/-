@@ -28,7 +28,7 @@ export default function App() {
       ]
     },
     
-  ] , {basename: '/Makalah/'})
+  ] )
 
   return (
     <RouterProvider router={routes}></RouterProvider>
