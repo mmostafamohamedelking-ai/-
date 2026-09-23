@@ -7,7 +7,6 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "homepage": "https://mmostafamohamedelking-ai.github.io/Makalah" ,
     "lint": "eslint .",
     "preview": "vite preview" ,
     "deploy": "gh-pages -d dist" ,
